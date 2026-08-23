@@ -1,0 +1,7 @@
+body_sensor_ecu
+body_controller_ecu
+body_actuator_ecu
+body_diagnostic_ecu
+body_diagnostic_log.txt
+runtime/
+*.o
